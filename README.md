@@ -53,17 +53,6 @@ anpr_project/
 ├── utils.py
 └── README.md
 
-🚀 How to Run
-For Image Detection
-
-python main.py --source input/car1.jpg --model yolov8
-
-For Video or Webcam Detection
-
-python main.py --source 0 --model yolov11
-
-    --model can be yolov8 or yolov11
-    --source can be path to image/video or webcam index
 
 📋 Output
 
