@@ -1,4 +1,4 @@
-##Automatic Number Plate Recognition (ANPR) 🚘🔍
+#Automatic Number Plate Recognition (ANPR) 🚘🔍
 
 This project implements an Automatic Number Plate Recognition (ANPR) system using YOLOv8 and YOLOv11 for number plate detection, combined with EasyOCR for text recognition.
 🧠 Overview
